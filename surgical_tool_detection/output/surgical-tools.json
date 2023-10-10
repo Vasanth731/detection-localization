@@ -1,0 +1,4546 @@
+[
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        507,
+                        0.5
+                    ],
+                    [
+                        0,
+                        507,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_cadiere_forceps",
+                "probability": 0.333
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        507,
+                        0.5
+                    ],
+                    [
+                        0,
+                        507,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.455
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        507,
+                        0.5
+                    ],
+                    [
+                        0,
+                        507,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_force_bipolar",
+                "probability": 0.431
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        445,
+                        179,
+                        0.5
+                    ],
+                    [
+                        1085,
+                        179,
+                        0.5
+                    ],
+                    [
+                        1085,
+                        474,
+                        0.5
+                    ],
+                    [
+                        445,
+                        474,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.336
+            },
+            {
+                "corners": [
+                    [
+                        445,
+                        179,
+                        0.5
+                    ],
+                    [
+                        1085,
+                        179,
+                        0.5
+                    ],
+                    [
+                        1085,
+                        474,
+                        0.5
+                    ],
+                    [
+                        445,
+                        474,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_cadiere_forceps",
+                "probability": 0.363
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        633,
+                        0,
+                        0.5
+                    ],
+                    [
+                        633,
+                        508,
+                        0.5
+                    ],
+                    [
+                        0,
+                        508,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_force_bipolar",
+                "probability": 0.355
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        435,
+                        165,
+                        0.5
+                    ],
+                    [
+                        1075,
+                        165,
+                        0.5
+                    ],
+                    [
+                        1075,
+                        459,
+                        0.5
+                    ],
+                    [
+                        435,
+                        459,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.334
+            },
+            {
+                "corners": [
+                    [
+                        435,
+                        165,
+                        0.5
+                    ],
+                    [
+                        1075,
+                        165,
+                        0.5
+                    ],
+                    [
+                        1075,
+                        459,
+                        0.5
+                    ],
+                    [
+                        435,
+                        459,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_cadiere_forceps",
+                "probability": 0.366
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        504,
+                        0.5
+                    ],
+                    [
+                        0,
+                        504,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_force_bipolar",
+                "probability": 0.365
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        91,
+                        0.5
+                    ],
+                    [
+                        640,
+                        91,
+                        0.5
+                    ],
+                    [
+                        640,
+                        603,
+                        0.5
+                    ],
+                    [
+                        0,
+                        603,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_bipolar_dissector",
+                "probability": 0.457
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        436,
+                        184,
+                        0.5
+                    ],
+                    [
+                        1076,
+                        184,
+                        0.5
+                    ],
+                    [
+                        1076,
+                        473,
+                        0.5
+                    ],
+                    [
+                        436,
+                        473,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.336
+            },
+            {
+                "corners": [
+                    [
+                        436,
+                        184,
+                        0.5
+                    ],
+                    [
+                        1076,
+                        184,
+                        0.5
+                    ],
+                    [
+                        1076,
+                        473,
+                        0.5
+                    ],
+                    [
+                        436,
+                        473,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_cadiere_forceps",
+                "probability": 0.419
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        497,
+                        0.5
+                    ],
+                    [
+                        0,
+                        497,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_force_bipolar",
+                "probability": 0.345
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        440,
+                        170,
+                        0.5
+                    ],
+                    [
+                        1080,
+                        170,
+                        0.5
+                    ],
+                    [
+                        1080,
+                        467,
+                        0.5
+                    ],
+                    [
+                        440,
+                        467,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_force_bipolar",
+                "probability": 0.323
+            },
+            {
+                "corners": [
+                    [
+                        440,
+                        170,
+                        0.5
+                    ],
+                    [
+                        1080,
+                        170,
+                        0.5
+                    ],
+                    [
+                        1080,
+                        467,
+                        0.5
+                    ],
+                    [
+                        440,
+                        467,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.388
+            },
+            {
+                "corners": [
+                    [
+                        440,
+                        170,
+                        0.5
+                    ],
+                    [
+                        1080,
+                        170,
+                        0.5
+                    ],
+                    [
+                        1080,
+                        467,
+                        0.5
+                    ],
+                    [
+                        440,
+                        467,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_cadiere_forceps",
+                "probability": 0.361
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        393,
+                        170,
+                        0.5
+                    ],
+                    [
+                        874,
+                        170,
+                        0.5
+                    ],
+                    [
+                        874,
+                        374,
+                        0.5
+                    ],
+                    [
+                        393,
+                        374,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.308
+            },
+            {
+                "corners": [
+                    [
+                        393,
+                        170,
+                        0.5
+                    ],
+                    [
+                        874,
+                        170,
+                        0.5
+                    ],
+                    [
+                        874,
+                        374,
+                        0.5
+                    ],
+                    [
+                        393,
+                        374,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.325
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        393,
+                        158,
+                        0.5
+                    ],
+                    [
+                        889,
+                        158,
+                        0.5
+                    ],
+                    [
+                        889,
+                        373,
+                        0.5
+                    ],
+                    [
+                        393,
+                        373,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.302
+            },
+            {
+                "corners": [
+                    [
+                        393,
+                        158,
+                        0.5
+                    ],
+                    [
+                        889,
+                        158,
+                        0.5
+                    ],
+                    [
+                        889,
+                        373,
+                        0.5
+                    ],
+                    [
+                        393,
+                        373,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.35
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        409,
+                        190,
+                        0.5
+                    ],
+                    [
+                        1045,
+                        190,
+                        0.5
+                    ],
+                    [
+                        1045,
+                        690,
+                        0.5
+                    ],
+                    [
+                        409,
+                        690,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.32
+            },
+            {
+                "corners": [
+                    [
+                        409,
+                        190,
+                        0.5
+                    ],
+                    [
+                        1045,
+                        190,
+                        0.5
+                    ],
+                    [
+                        1045,
+                        690,
+                        0.5
+                    ],
+                    [
+                        409,
+                        690,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.531
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        502,
+                        0.5
+                    ],
+                    [
+                        0,
+                        502,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_force_bipolar",
+                "probability": 0.329
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        630,
+                        0,
+                        0.5
+                    ],
+                    [
+                        630,
+                        503,
+                        0.5
+                    ],
+                    [
+                        0,
+                        503,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.344
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        630,
+                        0,
+                        0.5
+                    ],
+                    [
+                        630,
+                        503,
+                        0.5
+                    ],
+                    [
+                        0,
+                        503,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.31
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        121,
+                        12,
+                        0.5
+                    ],
+                    [
+                        755,
+                        12,
+                        0.5
+                    ],
+                    [
+                        755,
+                        524,
+                        0.5
+                    ],
+                    [
+                        121,
+                        524,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.297
+            },
+            {
+                "corners": [
+                    [
+                        121,
+                        12,
+                        0.5
+                    ],
+                    [
+                        755,
+                        12,
+                        0.5
+                    ],
+                    [
+                        755,
+                        524,
+                        0.5
+                    ],
+                    [
+                        121,
+                        524,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.495
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        439,
+                        187,
+                        0.5
+                    ],
+                    [
+                        1008,
+                        187,
+                        0.5
+                    ],
+                    [
+                        1008,
+                        446,
+                        0.5
+                    ],
+                    [
+                        439,
+                        446,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.304
+            },
+            {
+                "corners": [
+                    [
+                        439,
+                        187,
+                        0.5
+                    ],
+                    [
+                        1008,
+                        187,
+                        0.5
+                    ],
+                    [
+                        1008,
+                        446,
+                        0.5
+                    ],
+                    [
+                        439,
+                        446,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.478
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        2,
+                        0,
+                        0.5
+                    ],
+                    [
+                        612,
+                        0,
+                        0.5
+                    ],
+                    [
+                        612,
+                        502,
+                        0.5
+                    ],
+                    [
+                        2,
+                        502,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.723
+            },
+            {
+                "corners": [
+                    [
+                        2,
+                        0,
+                        0.5
+                    ],
+                    [
+                        612,
+                        0,
+                        0.5
+                    ],
+                    [
+                        612,
+                        502,
+                        0.5
+                    ],
+                    [
+                        2,
+                        502,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.512
+            },
+            {
+                "corners": [
+                    [
+                        2,
+                        0,
+                        0.5
+                    ],
+                    [
+                        612,
+                        0,
+                        0.5
+                    ],
+                    [
+                        612,
+                        502,
+                        0.5
+                    ],
+                    [
+                        2,
+                        502,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.449
+            },
+            {
+                "corners": [
+                    [
+                        2,
+                        0,
+                        0.5
+                    ],
+                    [
+                        612,
+                        0,
+                        0.5
+                    ],
+                    [
+                        612,
+                        502,
+                        0.5
+                    ],
+                    [
+                        2,
+                        502,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_force_bipolar",
+                "probability": 0.497
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        244,
+                        197,
+                        0.5
+                    ],
+                    [
+                        584,
+                        197,
+                        0.5
+                    ],
+                    [
+                        584,
+                        590,
+                        0.5
+                    ],
+                    [
+                        244,
+                        590,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.502
+            },
+            {
+                "corners": [
+                    [
+                        244,
+                        197,
+                        0.5
+                    ],
+                    [
+                        584,
+                        197,
+                        0.5
+                    ],
+                    [
+                        584,
+                        590,
+                        0.5
+                    ],
+                    [
+                        244,
+                        590,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_force_bipolar",
+                "probability": 0.391
+            },
+            {
+                "corners": [
+                    [
+                        244,
+                        197,
+                        0.5
+                    ],
+                    [
+                        584,
+                        197,
+                        0.5
+                    ],
+                    [
+                        584,
+                        590,
+                        0.5
+                    ],
+                    [
+                        244,
+                        590,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.412
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        489,
+                        217,
+                        0.5
+                    ],
+                    [
+                        1129,
+                        217,
+                        0.5
+                    ],
+                    [
+                        1129,
+                        569,
+                        0.5
+                    ],
+                    [
+                        489,
+                        569,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.441
+            },
+            {
+                "corners": [
+                    [
+                        489,
+                        217,
+                        0.5
+                    ],
+                    [
+                        1129,
+                        217,
+                        0.5
+                    ],
+                    [
+                        1129,
+                        569,
+                        0.5
+                    ],
+                    [
+                        489,
+                        569,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_cadiere_forceps",
+                "probability": 0.396
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        501,
+                        0.5
+                    ],
+                    [
+                        0,
+                        501,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_force_bipolar",
+                "probability": 0.339
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        499,
+                        0.5
+                    ],
+                    [
+                        0,
+                        499,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_force_bipolar",
+                "probability": 0.351
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        457,
+                        207,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        207,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        562,
+                        0.5
+                    ],
+                    [
+                        457,
+                        562,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.972
+            },
+            {
+                "corners": [
+                    [
+                        457,
+                        207,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        207,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        562,
+                        0.5
+                    ],
+                    [
+                        457,
+                        562,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_prograsp_forceps",
+                "probability": 0.427
+            },
+            {
+                "corners": [
+                    [
+                        457,
+                        207,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        207,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        562,
+                        0.5
+                    ],
+                    [
+                        457,
+                        562,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_cadiere_forceps",
+                "probability": 0.47
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        471,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        568,
+                        0.5
+                    ],
+                    [
+                        471,
+                        568,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_6_prograsp_forceps",
+                "probability": 0.322
+            },
+            {
+                "corners": [
+                    [
+                        471,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        568,
+                        0.5
+                    ],
+                    [
+                        471,
+                        568,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_6_bipolar_dissector",
+                "probability": 0.346
+            },
+            {
+                "corners": [
+                    [
+                        471,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        568,
+                        0.5
+                    ],
+                    [
+                        471,
+                        568,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_6_force_bipolar",
+                "probability": 0.246
+            },
+            {
+                "corners": [
+                    [
+                        471,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        568,
+                        0.5
+                    ],
+                    [
+                        471,
+                        568,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_6_cadiere_forceps",
+                "probability": 0.439
+            },
+            {
+                "corners": [
+                    [
+                        471,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        568,
+                        0.5
+                    ],
+                    [
+                        471,
+                        568,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_6_stapler",
+                "probability": 0.353
+            },
+            {
+                "corners": [
+                    [
+                        471,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        215,
+                        0.5
+                    ],
+                    [
+                        1111,
+                        568,
+                        0.5
+                    ],
+                    [
+                        471,
+                        568,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_6_cadiere_forceps",
+                "probability": 0.481
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        280,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        120,
+                        0.5
+                    ],
+                    [
+                        280,
+                        120,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_bipolar_dissector",
+                "probability": 0.482
+            },
+            {
+                "corners": [
+                    [
+                        280,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        120,
+                        0.5
+                    ],
+                    [
+                        280,
+                        120,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_bipolar_dissector",
+                "probability": 0.886
+            },
+            {
+                "corners": [
+                    [
+                        280,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        120,
+                        0.5
+                    ],
+                    [
+                        280,
+                        120,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_bipolar_dissector",
+                "probability": 0.324
+            },
+            {
+                "corners": [
+                    [
+                        280,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        120,
+                        0.5
+                    ],
+                    [
+                        280,
+                        120,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_cadiere_forceps",
+                "probability": 0.4
+            },
+            {
+                "corners": [
+                    [
+                        280,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        5,
+                        0.5
+                    ],
+                    [
+                        828,
+                        120,
+                        0.5
+                    ],
+                    [
+                        280,
+                        120,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_cadiere_forceps",
+                "probability": 0.732
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        3,
+                        0.5
+                    ],
+                    [
+                        633,
+                        3,
+                        0.5
+                    ],
+                    [
+                        633,
+                        512,
+                        0.5
+                    ],
+                    [
+                        0,
+                        512,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.526
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        3,
+                        0.5
+                    ],
+                    [
+                        633,
+                        3,
+                        0.5
+                    ],
+                    [
+                        633,
+                        512,
+                        0.5
+                    ],
+                    [
+                        0,
+                        512,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.49
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        441,
+                        210,
+                        0.5
+                    ],
+                    [
+                        1049,
+                        210,
+                        0.5
+                    ],
+                    [
+                        1049,
+                        484,
+                        0.5
+                    ],
+                    [
+                        441,
+                        484,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.398
+            },
+            {
+                "corners": [
+                    [
+                        441,
+                        210,
+                        0.5
+                    ],
+                    [
+                        1049,
+                        210,
+                        0.5
+                    ],
+                    [
+                        1049,
+                        484,
+                        0.5
+                    ],
+                    [
+                        441,
+                        484,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.752
+            },
+            {
+                "corners": [
+                    [
+                        441,
+                        210,
+                        0.5
+                    ],
+                    [
+                        1049,
+                        210,
+                        0.5
+                    ],
+                    [
+                        1049,
+                        484,
+                        0.5
+                    ],
+                    [
+                        441,
+                        484,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.445
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        1,
+                        14,
+                        0.5
+                    ],
+                    [
+                        641,
+                        14,
+                        0.5
+                    ],
+                    [
+                        641,
+                        524,
+                        0.5
+                    ],
+                    [
+                        1,
+                        524,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.458
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        14,
+                        0.5
+                    ],
+                    [
+                        641,
+                        14,
+                        0.5
+                    ],
+                    [
+                        641,
+                        524,
+                        0.5
+                    ],
+                    [
+                        1,
+                        524,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.347
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        14,
+                        0.5
+                    ],
+                    [
+                        641,
+                        14,
+                        0.5
+                    ],
+                    [
+                        641,
+                        524,
+                        0.5
+                    ],
+                    [
+                        1,
+                        524,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.456
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        442,
+                        202,
+                        0.5
+                    ],
+                    [
+                        1054,
+                        202,
+                        0.5
+                    ],
+                    [
+                        1054,
+                        464,
+                        0.5
+                    ],
+                    [
+                        442,
+                        464,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_force_bipolar",
+                "probability": 0.298
+            },
+            {
+                "corners": [
+                    [
+                        442,
+                        202,
+                        0.5
+                    ],
+                    [
+                        1054,
+                        202,
+                        0.5
+                    ],
+                    [
+                        1054,
+                        464,
+                        0.5
+                    ],
+                    [
+                        442,
+                        464,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.368
+            },
+            {
+                "corners": [
+                    [
+                        442,
+                        202,
+                        0.5
+                    ],
+                    [
+                        1054,
+                        202,
+                        0.5
+                    ],
+                    [
+                        1054,
+                        464,
+                        0.5
+                    ],
+                    [
+                        442,
+                        464,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.376
+            },
+            {
+                "corners": [
+                    [
+                        442,
+                        202,
+                        0.5
+                    ],
+                    [
+                        1054,
+                        202,
+                        0.5
+                    ],
+                    [
+                        1054,
+                        464,
+                        0.5
+                    ],
+                    [
+                        442,
+                        464,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_cadiere_forceps",
+                "probability": 0.347
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        448,
+                        203,
+                        0.5
+                    ],
+                    [
+                        1038,
+                        203,
+                        0.5
+                    ],
+                    [
+                        1038,
+                        464,
+                        0.5
+                    ],
+                    [
+                        448,
+                        464,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.392
+            },
+            {
+                "corners": [
+                    [
+                        448,
+                        203,
+                        0.5
+                    ],
+                    [
+                        1038,
+                        203,
+                        0.5
+                    ],
+                    [
+                        1038,
+                        464,
+                        0.5
+                    ],
+                    [
+                        448,
+                        464,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_force_bipolar",
+                "probability": 0.313
+            },
+            {
+                "corners": [
+                    [
+                        448,
+                        203,
+                        0.5
+                    ],
+                    [
+                        1038,
+                        203,
+                        0.5
+                    ],
+                    [
+                        1038,
+                        464,
+                        0.5
+                    ],
+                    [
+                        448,
+                        464,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.431
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        418,
+                        68,
+                        0.5
+                    ],
+                    [
+                        1058,
+                        68,
+                        0.5
+                    ],
+                    [
+                        1058,
+                        407,
+                        0.5
+                    ],
+                    [
+                        418,
+                        407,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.364
+            },
+            {
+                "corners": [
+                    [
+                        418,
+                        68,
+                        0.5
+                    ],
+                    [
+                        1058,
+                        68,
+                        0.5
+                    ],
+                    [
+                        1058,
+                        407,
+                        0.5
+                    ],
+                    [
+                        418,
+                        407,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_force_bipolar",
+                "probability": 0.308
+            },
+            {
+                "corners": [
+                    [
+                        418,
+                        68,
+                        0.5
+                    ],
+                    [
+                        1058,
+                        68,
+                        0.5
+                    ],
+                    [
+                        1058,
+                        407,
+                        0.5
+                    ],
+                    [
+                        418,
+                        407,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.329
+            },
+            {
+                "corners": [
+                    [
+                        418,
+                        68,
+                        0.5
+                    ],
+                    [
+                        1058,
+                        68,
+                        0.5
+                    ],
+                    [
+                        1058,
+                        407,
+                        0.5
+                    ],
+                    [
+                        418,
+                        407,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_cadiere_forceps",
+                "probability": 0.433
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        31,
+                        0.5
+                    ],
+                    [
+                        175,
+                        31,
+                        0.5
+                    ],
+                    [
+                        175,
+                        143,
+                        0.5
+                    ],
+                    [
+                        0,
+                        143,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.264
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        31,
+                        0.5
+                    ],
+                    [
+                        175,
+                        31,
+                        0.5
+                    ],
+                    [
+                        175,
+                        143,
+                        0.5
+                    ],
+                    [
+                        0,
+                        143,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.43
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        15,
+                        4,
+                        0.5
+                    ],
+                    [
+                        641,
+                        4,
+                        0.5
+                    ],
+                    [
+                        641,
+                        97,
+                        0.5
+                    ],
+                    [
+                        15,
+                        97,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_force_bipolar",
+                "probability": 0.267
+            },
+            {
+                "corners": [
+                    [
+                        15,
+                        4,
+                        0.5
+                    ],
+                    [
+                        641,
+                        4,
+                        0.5
+                    ],
+                    [
+                        641,
+                        97,
+                        0.5
+                    ],
+                    [
+                        15,
+                        97,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.39
+            },
+            {
+                "corners": [
+                    [
+                        15,
+                        4,
+                        0.5
+                    ],
+                    [
+                        641,
+                        4,
+                        0.5
+                    ],
+                    [
+                        641,
+                        97,
+                        0.5
+                    ],
+                    [
+                        15,
+                        97,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.368
+            },
+            {
+                "corners": [
+                    [
+                        15,
+                        4,
+                        0.5
+                    ],
+                    [
+                        641,
+                        4,
+                        0.5
+                    ],
+                    [
+                        641,
+                        97,
+                        0.5
+                    ],
+                    [
+                        15,
+                        97,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.309
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        127,
+                        0.5
+                    ],
+                    [
+                        1,
+                        127,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_bipolar_dissector",
+                "probability": 0.387
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        127,
+                        0.5
+                    ],
+                    [
+                        1,
+                        127,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_force_bipolar",
+                "probability": 0.389
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        127,
+                        0.5
+                    ],
+                    [
+                        1,
+                        127,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_stapler",
+                "probability": 0.261
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        127,
+                        0.5
+                    ],
+                    [
+                        1,
+                        127,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_cadiere_forceps",
+                "probability": 0.454
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        21,
+                        0.5
+                    ],
+                    [
+                        179,
+                        127,
+                        0.5
+                    ],
+                    [
+                        1,
+                        127,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_prograsp_forceps",
+                "probability": 0.506
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        177,
+                        21,
+                        0.5
+                    ],
+                    [
+                        177,
+                        128,
+                        0.5
+                    ],
+                    [
+                        1,
+                        128,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.459
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        177,
+                        21,
+                        0.5
+                    ],
+                    [
+                        177,
+                        128,
+                        0.5
+                    ],
+                    [
+                        1,
+                        128,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.312
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        177,
+                        21,
+                        0.5
+                    ],
+                    [
+                        177,
+                        128,
+                        0.5
+                    ],
+                    [
+                        1,
+                        128,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_force_bipolar",
+                "probability": 0.383
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        21,
+                        0.5
+                    ],
+                    [
+                        177,
+                        21,
+                        0.5
+                    ],
+                    [
+                        177,
+                        128,
+                        0.5
+                    ],
+                    [
+                        1,
+                        128,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.479
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        124,
+                        0.5
+                    ],
+                    [
+                        0,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_bipolar_dissector",
+                "probability": 0.454
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        124,
+                        0.5
+                    ],
+                    [
+                        0,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_prograsp_forceps",
+                "probability": 0.286
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        124,
+                        0.5
+                    ],
+                    [
+                        0,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_force_bipolar",
+                "probability": 0.382
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        124,
+                        0.5
+                    ],
+                    [
+                        0,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_cadiere_forceps",
+                "probability": 0.424
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        17,
+                        0.5
+                    ],
+                    [
+                        176,
+                        124,
+                        0.5
+                    ],
+                    [
+                        0,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_prograsp_forceps",
+                "probability": 0.397
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        408,
+                        198,
+                        0.5
+                    ],
+                    [
+                        1031,
+                        198,
+                        0.5
+                    ],
+                    [
+                        1031,
+                        523,
+                        0.5
+                    ],
+                    [
+                        408,
+                        523,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.508
+            },
+            {
+                "corners": [
+                    [
+                        408,
+                        198,
+                        0.5
+                    ],
+                    [
+                        1031,
+                        198,
+                        0.5
+                    ],
+                    [
+                        1031,
+                        523,
+                        0.5
+                    ],
+                    [
+                        408,
+                        523,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_needle_driver",
+                "probability": 0.382
+            },
+            {
+                "corners": [
+                    [
+                        408,
+                        198,
+                        0.5
+                    ],
+                    [
+                        1031,
+                        198,
+                        0.5
+                    ],
+                    [
+                        1031,
+                        523,
+                        0.5
+                    ],
+                    [
+                        408,
+                        523,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.316
+            },
+            {
+                "corners": [
+                    [
+                        408,
+                        198,
+                        0.5
+                    ],
+                    [
+                        1031,
+                        198,
+                        0.5
+                    ],
+                    [
+                        1031,
+                        523,
+                        0.5
+                    ],
+                    [
+                        408,
+                        523,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.381
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        4,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        124,
+                        0.5
+                    ],
+                    [
+                        4,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_cadiere_forceps",
+                "probability": 0.389
+            },
+            {
+                "corners": [
+                    [
+                        4,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        124,
+                        0.5
+                    ],
+                    [
+                        4,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_cadiere_forceps",
+                "probability": 0.427
+            },
+            {
+                "corners": [
+                    [
+                        4,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        124,
+                        0.5
+                    ],
+                    [
+                        4,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_force_bipolar",
+                "probability": 0.38
+            },
+            {
+                "corners": [
+                    [
+                        4,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        124,
+                        0.5
+                    ],
+                    [
+                        4,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_prograsp_forceps",
+                "probability": 0.305
+            },
+            {
+                "corners": [
+                    [
+                        4,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        16,
+                        0.5
+                    ],
+                    [
+                        180,
+                        124,
+                        0.5
+                    ],
+                    [
+                        4,
+                        124,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_5_prograsp_forceps",
+                "probability": 0.339
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        18,
+                        6,
+                        0.5
+                    ],
+                    [
+                        639,
+                        6,
+                        0.5
+                    ],
+                    [
+                        639,
+                        109,
+                        0.5
+                    ],
+                    [
+                        18,
+                        109,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_prograsp_forceps",
+                "probability": 0.42
+            },
+            {
+                "corners": [
+                    [
+                        18,
+                        6,
+                        0.5
+                    ],
+                    [
+                        639,
+                        6,
+                        0.5
+                    ],
+                    [
+                        639,
+                        109,
+                        0.5
+                    ],
+                    [
+                        18,
+                        109,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_force_bipolar",
+                "probability": 0.259
+            },
+            {
+                "corners": [
+                    [
+                        18,
+                        6,
+                        0.5
+                    ],
+                    [
+                        639,
+                        6,
+                        0.5
+                    ],
+                    [
+                        639,
+                        109,
+                        0.5
+                    ],
+                    [
+                        18,
+                        109,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_prograsp_forceps",
+                "probability": 0.34
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        26,
+                        6,
+                        0.5
+                    ],
+                    [
+                        640,
+                        6,
+                        0.5
+                    ],
+                    [
+                        640,
+                        104,
+                        0.5
+                    ],
+                    [
+                        26,
+                        104,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.294
+            },
+            {
+                "corners": [
+                    [
+                        26,
+                        6,
+                        0.5
+                    ],
+                    [
+                        640,
+                        6,
+                        0.5
+                    ],
+                    [
+                        640,
+                        104,
+                        0.5
+                    ],
+                    [
+                        26,
+                        104,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.311
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        373,
+                        126,
+                        0.5
+                    ],
+                    [
+                        935,
+                        126,
+                        0.5
+                    ],
+                    [
+                        935,
+                        470,
+                        0.5
+                    ],
+                    [
+                        373,
+                        470,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.554
+            },
+            {
+                "corners": [
+                    [
+                        373,
+                        126,
+                        0.5
+                    ],
+                    [
+                        935,
+                        126,
+                        0.5
+                    ],
+                    [
+                        935,
+                        470,
+                        0.5
+                    ],
+                    [
+                        373,
+                        470,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.951
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        3,
+                        461,
+                        0.5
+                    ],
+                    [
+                        86,
+                        461,
+                        0.5
+                    ],
+                    [
+                        86,
+                        973,
+                        0.5
+                    ],
+                    [
+                        3,
+                        973,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.481
+            },
+            {
+                "corners": [
+                    [
+                        3,
+                        461,
+                        0.5
+                    ],
+                    [
+                        86,
+                        461,
+                        0.5
+                    ],
+                    [
+                        86,
+                        973,
+                        0.5
+                    ],
+                    [
+                        3,
+                        973,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.379
+            },
+            {
+                "corners": [
+                    [
+                        3,
+                        461,
+                        0.5
+                    ],
+                    [
+                        86,
+                        461,
+                        0.5
+                    ],
+                    [
+                        86,
+                        973,
+                        0.5
+                    ],
+                    [
+                        3,
+                        973,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.449
+            },
+            {
+                "corners": [
+                    [
+                        3,
+                        461,
+                        0.5
+                    ],
+                    [
+                        86,
+                        461,
+                        0.5
+                    ],
+                    [
+                        86,
+                        973,
+                        0.5
+                    ],
+                    [
+                        3,
+                        973,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.996
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        361,
+                        115,
+                        0.5
+                    ],
+                    [
+                        853,
+                        115,
+                        0.5
+                    ],
+                    [
+                        853,
+                        422,
+                        0.5
+                    ],
+                    [
+                        361,
+                        422,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.437
+            },
+            {
+                "corners": [
+                    [
+                        361,
+                        115,
+                        0.5
+                    ],
+                    [
+                        853,
+                        115,
+                        0.5
+                    ],
+                    [
+                        853,
+                        422,
+                        0.5
+                    ],
+                    [
+                        361,
+                        422,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_prograsp_forceps",
+                "probability": 0.376
+            },
+            {
+                "corners": [
+                    [
+                        361,
+                        115,
+                        0.5
+                    ],
+                    [
+                        853,
+                        115,
+                        0.5
+                    ],
+                    [
+                        853,
+                        422,
+                        0.5
+                    ],
+                    [
+                        361,
+                        422,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.963
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        8,
+                        0.5
+                    ],
+                    [
+                        181,
+                        8,
+                        0.5
+                    ],
+                    [
+                        181,
+                        116,
+                        0.5
+                    ],
+                    [
+                        0,
+                        116,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.467
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        8,
+                        0.5
+                    ],
+                    [
+                        181,
+                        8,
+                        0.5
+                    ],
+                    [
+                        181,
+                        116,
+                        0.5
+                    ],
+                    [
+                        0,
+                        116,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.425
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        2,
+                        11,
+                        0.5
+                    ],
+                    [
+                        177,
+                        11,
+                        0.5
+                    ],
+                    [
+                        177,
+                        112,
+                        0.5
+                    ],
+                    [
+                        2,
+                        112,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.434
+            },
+            {
+                "corners": [
+                    [
+                        2,
+                        11,
+                        0.5
+                    ],
+                    [
+                        177,
+                        11,
+                        0.5
+                    ],
+                    [
+                        177,
+                        112,
+                        0.5
+                    ],
+                    [
+                        2,
+                        112,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.337
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        1,
+                        11,
+                        0.5
+                    ],
+                    [
+                        174,
+                        11,
+                        0.5
+                    ],
+                    [
+                        174,
+                        119,
+                        0.5
+                    ],
+                    [
+                        1,
+                        119,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.31
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        11,
+                        0.5
+                    ],
+                    [
+                        174,
+                        11,
+                        0.5
+                    ],
+                    [
+                        174,
+                        119,
+                        0.5
+                    ],
+                    [
+                        1,
+                        119,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.43
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        5,
+                        15,
+                        0.5
+                    ],
+                    [
+                        184,
+                        15,
+                        0.5
+                    ],
+                    [
+                        184,
+                        121,
+                        0.5
+                    ],
+                    [
+                        5,
+                        121,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.237
+            },
+            {
+                "corners": [
+                    [
+                        5,
+                        15,
+                        0.5
+                    ],
+                    [
+                        184,
+                        15,
+                        0.5
+                    ],
+                    [
+                        184,
+                        121,
+                        0.5
+                    ],
+                    [
+                        5,
+                        121,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.416
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        381,
+                        150,
+                        0.5
+                    ],
+                    [
+                        948,
+                        150,
+                        0.5
+                    ],
+                    [
+                        948,
+                        432,
+                        0.5
+                    ],
+                    [
+                        381,
+                        432,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.253
+            },
+            {
+                "corners": [
+                    [
+                        381,
+                        150,
+                        0.5
+                    ],
+                    [
+                        948,
+                        150,
+                        0.5
+                    ],
+                    [
+                        948,
+                        432,
+                        0.5
+                    ],
+                    [
+                        381,
+                        432,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.626
+            },
+            {
+                "corners": [
+                    [
+                        381,
+                        150,
+                        0.5
+                    ],
+                    [
+                        948,
+                        150,
+                        0.5
+                    ],
+                    [
+                        948,
+                        432,
+                        0.5
+                    ],
+                    [
+                        381,
+                        432,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.771
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        347,
+                        111,
+                        0.5
+                    ],
+                    [
+                        859,
+                        111,
+                        0.5
+                    ],
+                    [
+                        859,
+                        383,
+                        0.5
+                    ],
+                    [
+                        347,
+                        383,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_prograsp_forceps",
+                "probability": 0.44
+            },
+            {
+                "corners": [
+                    [
+                        347,
+                        111,
+                        0.5
+                    ],
+                    [
+                        859,
+                        111,
+                        0.5
+                    ],
+                    [
+                        859,
+                        383,
+                        0.5
+                    ],
+                    [
+                        347,
+                        383,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.648
+            },
+            {
+                "corners": [
+                    [
+                        347,
+                        111,
+                        0.5
+                    ],
+                    [
+                        859,
+                        111,
+                        0.5
+                    ],
+                    [
+                        859,
+                        383,
+                        0.5
+                    ],
+                    [
+                        347,
+                        383,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.901
+            },
+            {
+                "corners": [
+                    [
+                        347,
+                        111,
+                        0.5
+                    ],
+                    [
+                        859,
+                        111,
+                        0.5
+                    ],
+                    [
+                        859,
+                        383,
+                        0.5
+                    ],
+                    [
+                        347,
+                        383,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_4_bipolar_dissector",
+                "probability": 0.937
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        363,
+                        116,
+                        0.5
+                    ],
+                    [
+                        950,
+                        116,
+                        0.5
+                    ],
+                    [
+                        950,
+                        391,
+                        0.5
+                    ],
+                    [
+                        363,
+                        391,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_prograsp_forceps",
+                "probability": 0.422
+            },
+            {
+                "corners": [
+                    [
+                        363,
+                        116,
+                        0.5
+                    ],
+                    [
+                        950,
+                        116,
+                        0.5
+                    ],
+                    [
+                        950,
+                        391,
+                        0.5
+                    ],
+                    [
+                        363,
+                        391,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.392
+            },
+            {
+                "corners": [
+                    [
+                        363,
+                        116,
+                        0.5
+                    ],
+                    [
+                        950,
+                        116,
+                        0.5
+                    ],
+                    [
+                        950,
+                        391,
+                        0.5
+                    ],
+                    [
+                        363,
+                        391,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_3_bipolar_dissector",
+                "probability": 0.791
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        8,
+                        0.5
+                    ],
+                    [
+                        178,
+                        8,
+                        0.5
+                    ],
+                    [
+                        178,
+                        112,
+                        0.5
+                    ],
+                    [
+                        0,
+                        112,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.496
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        8,
+                        0.5
+                    ],
+                    [
+                        178,
+                        8,
+                        0.5
+                    ],
+                    [
+                        178,
+                        112,
+                        0.5
+                    ],
+                    [
+                        0,
+                        112,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.417
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        4,
+                        0.5
+                    ],
+                    [
+                        640,
+                        4,
+                        0.5
+                    ],
+                    [
+                        640,
+                        516,
+                        0.5
+                    ],
+                    [
+                        0,
+                        516,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.396
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        4,
+                        0.5
+                    ],
+                    [
+                        640,
+                        4,
+                        0.5
+                    ],
+                    [
+                        640,
+                        516,
+                        0.5
+                    ],
+                    [
+                        0,
+                        516,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.231
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        456,
+                        216,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        216,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        526,
+                        0.5
+                    ],
+                    [
+                        456,
+                        526,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.293
+            },
+            {
+                "corners": [
+                    [
+                        456,
+                        216,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        216,
+                        0.5
+                    ],
+                    [
+                        1096,
+                        526,
+                        0.5
+                    ],
+                    [
+                        456,
+                        526,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_cadiere_forceps",
+                "probability": 0.401
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        11,
+                        0.5
+                    ],
+                    [
+                        179,
+                        11,
+                        0.5
+                    ],
+                    [
+                        179,
+                        117,
+                        0.5
+                    ],
+                    [
+                        0,
+                        117,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_force_bipolar",
+                "probability": 0.282
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        11,
+                        0.5
+                    ],
+                    [
+                        179,
+                        11,
+                        0.5
+                    ],
+                    [
+                        179,
+                        117,
+                        0.5
+                    ],
+                    [
+                        0,
+                        117,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.555
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        1,
+                        0,
+                        0.5
+                    ],
+                    [
+                        638,
+                        0,
+                        0.5
+                    ],
+                    [
+                        638,
+                        492,
+                        0.5
+                    ],
+                    [
+                        1,
+                        492,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_force_bipolar",
+                "probability": 0.226
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        72,
+                        0.5
+                    ],
+                    [
+                        631,
+                        72,
+                        0.5
+                    ],
+                    [
+                        631,
+                        581,
+                        0.5
+                    ],
+                    [
+                        0,
+                        581,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_1_bipolar_dissector",
+                "probability": 0.377
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        2,
+                        9,
+                        0.5
+                    ],
+                    [
+                        642,
+                        9,
+                        0.5
+                    ],
+                    [
+                        642,
+                        521,
+                        0.5
+                    ],
+                    [
+                        2,
+                        521,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.964
+            },
+            {
+                "corners": [
+                    [
+                        2,
+                        9,
+                        0.5
+                    ],
+                    [
+                        642,
+                        9,
+                        0.5
+                    ],
+                    [
+                        642,
+                        521,
+                        0.5
+                    ],
+                    [
+                        2,
+                        521,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.26
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        489,
+                        0.5
+                    ],
+                    [
+                        0,
+                        489,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_needle_driver",
+                "probability": 0.388
+            },
+            {
+                "corners": [
+                    [
+                        0,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        0,
+                        0.5
+                    ],
+                    [
+                        640,
+                        489,
+                        0.5
+                    ],
+                    [
+                        0,
+                        489,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.231
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        2,
+                        15,
+                        0.5
+                    ],
+                    [
+                        185,
+                        15,
+                        0.5
+                    ],
+                    [
+                        185,
+                        122,
+                        0.5
+                    ],
+                    [
+                        2,
+                        122,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.413
+            },
+            {
+                "corners": [
+                    [
+                        2,
+                        15,
+                        0.5
+                    ],
+                    [
+                        185,
+                        15,
+                        0.5
+                    ],
+                    [
+                        185,
+                        122,
+                        0.5
+                    ],
+                    [
+                        2,
+                        122,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.541
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        2,
+                        12,
+                        0.5
+                    ],
+                    [
+                        186,
+                        12,
+                        0.5
+                    ],
+                    [
+                        186,
+                        119,
+                        0.5
+                    ],
+                    [
+                        2,
+                        119,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.459
+            },
+            {
+                "corners": [
+                    [
+                        2,
+                        12,
+                        0.5
+                    ],
+                    [
+                        186,
+                        12,
+                        0.5
+                    ],
+                    [
+                        186,
+                        119,
+                        0.5
+                    ],
+                    [
+                        2,
+                        119,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.39
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    },
+    {
+        "type": "Multiple 2D bounding boxes",
+        "boxes": [
+            {
+                "corners": [
+                    [
+                        1,
+                        46,
+                        0.5
+                    ],
+                    [
+                        641,
+                        46,
+                        0.5
+                    ],
+                    [
+                        641,
+                        558,
+                        0.5
+                    ],
+                    [
+                        1,
+                        558,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_prograsp_forceps",
+                "probability": 0.444
+            },
+            {
+                "corners": [
+                    [
+                        1,
+                        46,
+                        0.5
+                    ],
+                    [
+                        641,
+                        46,
+                        0.5
+                    ],
+                    [
+                        641,
+                        558,
+                        0.5
+                    ],
+                    [
+                        1,
+                        558,
+                        0.5
+                    ]
+                ],
+                "name": "slice_nr_2_bipolar_dissector",
+                "probability": 0.602
+            }
+        ],
+        "version": {
+            "major": 1,
+            "minor": 0
+        }
+    }
+]
