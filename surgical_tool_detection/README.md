@@ -1,7 +1,7 @@
 # surgical tool detection model
 
 
- weights : 
+Used weights : 
 * resnet18.pth 
 * DINO_best_student.pth 
 * DINO_best_dino_resnet_classifier_checkpoint.pth
