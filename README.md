@@ -1,2 +1,2 @@
-# detection-localization
-repo for models related to object detection, classification and localization
+# Classification Models
+This is the space where the works related to classification are maintained
